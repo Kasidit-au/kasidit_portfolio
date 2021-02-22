@@ -1,6 +1,6 @@
 # kasidit_portfolio
 
-Project Netflix movies and tv shows
+[Project Netflix movies and tv shows](https://github.com/Kasidit-au/netflix/tree/master)
 
 Dataset: Netflix data from Kaggle
 Objective: Finding insights
